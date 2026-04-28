@@ -1,0 +1,9 @@
+3,8.0
+1,Study Algorithms,1.5,9
+2,Review Lecture Notes,1.0,8
+3,Solve Practice Problems,2.0,10
+4,Implement Greedy Algorithm,1.5,9
+5,Read Textbook Chapter,1.0,7
+6,Write Summary Sheet,0.5,6
+7,Past Exam Questions,2.5,10
+8,Debug Assignment Code,1.5,8
